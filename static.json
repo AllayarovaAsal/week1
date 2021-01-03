@@ -1,7 +1,8 @@
 {
 "header":{
 "/*": {
-"X-Author": " asal_allayarova7939"
+"X-Author": " asal_allayarova7939",
+  "Access-Control-Allow-Origin": "*"
 }
 }
 }
